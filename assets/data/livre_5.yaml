@@ -1,0 +1,410 @@
+# Livre V - DES DISPOSITIONS ABROGATOIRES, MODIFICATIVES, TRANSITOIRES
+# Généré par parse_cdf.py depuis CDF_2017.pdf
+code: code-famille-rdc
+source: src-cdf-2017-pdf
+livre:
+  numero: V
+  intitule: "DES DISPOSITIONS ABROGATOIRES, MODIFICATIVES, TRANSITOIRES"
+  ordre: 5
+  chemin: "5"
+  nombre_articles: 23
+  nombre_divisions: 3
+divisions:
+  - type: titre
+    numero: I
+    intitule: DES DISPOSITIONS ABROGATOIRES
+    ordre: 1
+    chemin: "5.1"
+    articles:
+      - numero: "915"
+        numero_tri: 915.0
+        ordre: 920
+        version:
+          num_version: 1
+          statut: abroge
+          texte_source: loi-16-008
+          date_debut_vigueur: "2016-07-15"
+          date_fin_vigueur: null
+          contenu: null
+          alineas: []
+          renvois: []
+      - numero: "916"
+        numero_tri: 916.0
+        ordre: 921
+        version:
+          num_version: 1
+          statut: abroge
+          texte_source: loi-16-008
+          date_debut_vigueur: "2016-07-15"
+          date_fin_vigueur: null
+          contenu: null
+          alineas: []
+          renvois: []
+      - numero: "917"
+        numero_tri: 917.0
+        ordre: 922
+        version:
+          num_version: 1
+          statut: abroge
+          texte_source: loi-16-008
+          date_debut_vigueur: "2016-07-15"
+          date_fin_vigueur: null
+          contenu: null
+          alineas: []
+          renvois: []
+      - numero: "918"
+        numero_tri: 918.0
+        ordre: 923
+        version:
+          num_version: 1
+          statut: abroge
+          texte_source: loi-16-008
+          date_debut_vigueur: "2016-07-15"
+          date_fin_vigueur: null
+          contenu: null
+          alineas: []
+          renvois: []
+      - numero: "919"
+        numero_tri: 919.0
+        ordre: 924
+        version:
+          num_version: 1
+          statut: abroge
+          texte_source: loi-16-008
+          date_debut_vigueur: "2016-07-15"
+          date_fin_vigueur: null
+          contenu: null
+          alineas: []
+          renvois: []
+      - numero: "920"
+        numero_tri: 920.0
+        ordre: 925
+        version:
+          num_version: 1
+          statut: abroge
+          texte_source: loi-16-008
+          date_debut_vigueur: "2016-07-15"
+          date_fin_vigueur: null
+          contenu: null
+          alineas: []
+          renvois: []
+    divisions: []
+  - type: titre
+    numero: II
+    intitule: DES DISPOSITIONS TRANSITOIRES ET MODIFICATIVES
+    ordre: 2
+    chemin: "5.2"
+    articles:
+      - numero: "920 bis"
+        numero_tri: 920.1
+        ordre: 926
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Sont abrogés l’alinéa 2 de l’article 18, les articles 19 et 20 de la Loi n°09/001 du 10 janvier 2009 portant protection de l’enfant.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Sont abrogés l’alinéa 2 de l’article 18, les articles 19 et 20 de la Loi n°09/001 du 10 janvier 2009 portant protection de l’enfant.
+          renvois:
+            - article_cible: "18"
+              portee: interne
+            - article_cible: "19"
+              portee: interne
+      - numero: "921"
+        numero_tri: 921.0
+        ordre: 927
+        version:
+          num_version: 1
+          statut: abroge
+          texte_source: loi-16-008
+          date_debut_vigueur: "2016-07-15"
+          date_fin_vigueur: null
+          contenu: null
+          alineas: []
+          renvois: []
+      - numero: "922"
+        numero_tri: 922.0
+        ordre: 928
+        version:
+          num_version: 1
+          statut: abroge
+          texte_source: loi-16-008
+          date_debut_vigueur: "2016-07-15"
+          date_fin_vigueur: null
+          contenu: null
+          alineas: []
+          renvois: []
+      - numero: "923"
+        numero_tri: 923.0
+        ordre: 929
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Dans le délai de six mois à partir de leur constitution, les conseils de tutelle examineront les cas des mineurs dont la tutelle a été déférée à l'Etat, en vertu de la législation ancienne et les soumettront aux dispositions prévues par la présente loi.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Dans le délai de six mois à partir de leur constitution, les conseils de tutelle examineront les cas des mineurs dont la tutelle a été déférée à l'Etat, en vertu de la législation ancienne et les soumettront aux dispositions prévues par la présente loi.
+          renvois: []
+      - numero: "923 bis"
+        numero_tri: 923.1
+        ordre: 930
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            En entendant les mesures d’exécution prévues à l’article 691 bis et la création de l’organisme public chargé des adoptions, prévu à l’article 652 de la présente loi, l’examen de nouveaux dossiers d’adoption internationale des enfants congolais est suspendu.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  En entendant les mesures d’exécution prévues à l’article 691 bis et la création de l’organisme public chargé des adoptions, prévu à l’article 652 de la présente loi, l’examen de nouveaux dossiers d’adoption internationale des enfants congolais est suspendu.
+          renvois:
+            - article_cible: "691bis"
+              portee: interne
+            - article_cible: "652"
+              portee: interne
+      - numero: "924"
+        numero_tri: 924.0
+        ordre: 931
+        contenu_tronque: true
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Les mariages monogamiques contractés conformément à la coutume antérieurement à la date d'entrée en vigueur de la présente loi ainsi que les mariages célébrés conformément au code civil, demeurent valides. Leurs effets extrapatrimoniaux sont régis par la présente loi ; celle-ci s'applique également pour la dissolution du lien matrimonial aux unions antérieures à sa mise en vigueur. Les divorces, séparations de corps ou annulation prononcés par décision passée en force de chose jugée avant l'entrée en vigueur de la présente loi, produisent les effets prévus par la loi ou la coutume en vigueur au moment où ils sont intervenus
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Les mariages monogamiques contractés conformément à la coutume antérieurement à la date d'entrée en vigueur de la présente loi ainsi que les mariages célébrés conformément au code civil, demeurent valides. Leurs effets extrapatrimoniaux sont régis par la présente loi ; celle-ci s'applique également pour la dissolution du lien matrimonial aux unions antérieures à sa mise en vigueur. Les divorces, séparations de corps ou annulation prononcés par décision passée en force de chose jugée avant l'entrée en vigueur de la présente loi, produisent les effets prévus par la loi ou la coutume en vigueur au moment où ils sont intervenus
+          renvois: []
+      - numero: "925"
+        numero_tri: 925.0
+        ordre: 932
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Les mariages polygamiques conclus selon la coutume avant le premier janvier 1951 sont valides.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Les mariages polygamiques conclus selon la coutume avant le premier janvier 1951 sont valides.
+          renvois: []
+      - numero: "926"
+        numero_tri: 926.0
+        ordre: 933
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Est puni de sept jours à deux mois de servitude pénale principale et d’une amende de 250.000 à 1250.000 francs congolais ou de l’une de ces peines seulement, quiconque ayant été condamné, par décision judiciaire désormais sans recours en opposition ou en appel, à fournir une pension alimentaire à son conjoint, à ses descendants ou à ses ascendants sera volontairement demeuré plus de deux mois sans en acquitter les termes.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Est puni de sept jours à deux mois de servitude pénale principale et d’une amende de 250.000 à 1250.000 francs congolais ou de l’une de ces peines seulement, quiconque ayant été condamné, par décision judiciaire désormais sans recours en opposition ou en appel, à fournir une pension alimentaire à son conjoint, à ses descendants ou à ses ascendants sera volontairement demeuré plus de deux mois sans en acquitter les termes.
+          renvois: []
+      - numero: "927"
+        numero_tri: 927.0
+        ordre: 934
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Sera punie des mêmes peines, l'inexécution dans les conditions prévues à l'article précédent des obligations qui font l'objet des articles 480 à 485,487 et 488, 700, 717,728 et 735 à 749 de la présente loi.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Sera punie des mêmes peines, l'inexécution dans les conditions prévues à l'article précédent des obligations qui font l'objet des articles 480 à 485,487 et 488, 700, 717,728 et 735 à 749 de la présente loi.
+          renvois:
+            - article_cible: "480"
+              portee: interne
+      - numero: "928"
+        numero_tri: 928.0
+        ordre: 935
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Les époux, ayant contracté mariage avant l’entrée en vigueur de la Loi n° 87-010 du 1er août 1987, sont régis par le régime de la communauté réduite aux acquêts avec gestion concertée.
+            Toutefois, les époux peuvent, par déclaration conjointe faite devant l’officier de l’état civil de leur résidence, soit opter pour un des deux autres régimes organisés par la loi, soit opter, dans le cadre du régime choisi par eux, pour la gestion séparée de leurs biens propres. Cette déclaration est affichée dans le mois au bureau de l’état civil, à la diligence de l’officier de l’état civil qui, en même temps, enverra copie de la déclaration d’option pour publication au Journal officiel. Si les deux époux ou l’un d’entre eux sont commerçants, ils doivent, dans le mois de leur déclaration, adresser en outre, copie de celle- ci au registre du commerce et de crédit mobilier auquel les époux ou l’un d’eux sont inscrits. La déclaration prend effet : •
+            à dater du jour où elle est faite en ce qui concerne les époux ;
+            •
+            dans le mois qui suit son affichage par l’officier de l’état civil vis -à – vis des tiers ;
+            •
+            à dater du jour de l’inscription au registre du commerce, en ce qui concerne les époux commerçants ou l’un d’entre eux, vis-à-vis des tiers ayant avec eux des relations commerciales.
+            Après un an, si les époux n’ont pas fait de déclaration d’option, ils ne peuvent modifier le régime de la communauté réduite aux acquêts que conformément aux dispositions ordinaires de la présente loi.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Les époux, ayant contracté mariage avant l’entrée en vigueur de la Loi n° 87-010 du 1er août 1987, sont régis par le régime de la communauté réduite aux acquêts avec gestion concertée.
+            - ordre: 2
+              type: alinea
+              contenu: |-
+                  Toutefois, les époux peuvent, par déclaration conjointe faite devant l’officier de l’état civil de leur résidence, soit opter pour un des deux autres régimes organisés par la loi, soit opter, dans le cadre du régime choisi par eux, pour la gestion séparée de leurs biens propres. Cette déclaration est affichée dans le mois au bureau de l’état civil, à la diligence de l’officier de l’état civil qui, en même temps, enverra copie de la déclaration d’option pour publication au Journal officiel. Si les deux époux ou l’un d’entre eux sont commerçants, ils doivent, dans le mois de leur déclaration, adresser en outre, copie de celle- ci au registre du commerce et de crédit mobilier auquel les époux ou l’un d’eux sont inscrits. La déclaration prend effet : •
+            - ordre: 3
+              type: alinea
+              contenu: |-
+                  à dater du jour où elle est faite en ce qui concerne les époux ;
+            - ordre: 4
+              type: alinea
+              contenu: |-
+                  •
+            - ordre: 5
+              type: alinea
+              contenu: |-
+                  dans le mois qui suit son affichage par l’officier de l’état civil vis -à – vis des tiers ;
+            - ordre: 6
+              type: alinea
+              contenu: |-
+                  •
+            - ordre: 7
+              type: alinea
+              contenu: |-
+                  à dater du jour de l’inscription au registre du commerce, en ce qui concerne les époux commerçants ou l’un d’entre eux, vis-à-vis des tiers ayant avec eux des relations commerciales.
+            - ordre: 8
+              type: alinea
+              contenu: |-
+                  Après un an, si les époux n’ont pas fait de déclaration d’option, ils ne peuvent modifier le régime de la communauté réduite aux acquêts que conformément aux dispositions ordinaires de la présente loi.
+          renvois: []
+      - numero: "929"
+        numero_tri: 929.0
+        ordre: 936
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Lorsque les époux avaient établi un contrat régissant leur régime matrimonial, soit avant, soit pendant leur union, ils resteront régis par celui-ci à moins que dans l'année qui suit rentrée en vigueur de la présente loi, ils ne fassent une déclaration d'option conjointe devant l'officier de l'état civil de leur résidence, pour l'un des régimes organisés par la loi. Après un an, si les époux n'ont pas fait de déclaration d'option, ils ne pourront modifier le contrat régissant leur régime matrimonial que conformément aux dispositions de la présente loi.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Lorsque les époux avaient établi un contrat régissant leur régime matrimonial, soit avant, soit pendant leur union, ils resteront régis par celui-ci à moins que dans l'année qui suit rentrée en vigueur de la présente loi, ils ne fassent une déclaration d'option conjointe devant l'officier de l'état civil de leur résidence, pour l'un des régimes organisés par la loi. Après un an, si les époux n'ont pas fait de déclaration d'option, ils ne pourront modifier le contrat régissant leur régime matrimonial que conformément aux dispositions de la présente loi.
+          renvois: []
+      - numero: "930"
+        numero_tri: 930.0
+        ordre: 937
+        version:
+          num_version: 1
+          statut: abroge
+          texte_source: loi-16-008
+          date_debut_vigueur: "2016-07-15"
+          date_fin_vigueur: null
+          contenu: null
+          alineas: []
+          renvois: []
+      - numero: "931"
+        numero_tri: 931.0
+        ordre: 938
+        version:
+          num_version: 1
+          statut: abroge
+          texte_source: loi-16-008
+          date_debut_vigueur: "2016-07-15"
+          date_fin_vigueur: null
+          contenu: null
+          alineas: []
+          renvois: []
+    divisions: []
+  - type: titre
+    numero: III
+    intitule: DES DISPOSITIONS FINALES
+    ordre: 3
+    chemin: "5.3"
+    articles:
+      - numero: "932"
+        numero_tri: 932.0
+        ordre: 939
+        version:
+          num_version: 1
+          statut: abroge
+          texte_source: loi-16-008
+          date_debut_vigueur: "2016-07-15"
+          date_fin_vigueur: null
+          contenu: null
+          alineas: []
+          renvois: []
+      - numero: "933"
+        numero_tri: 933.0
+        ordre: 940
+        version:
+          num_version: 1
+          statut: abroge
+          texte_source: loi-16-008
+          date_debut_vigueur: "2016-07-15"
+          date_fin_vigueur: null
+          contenu: null
+          alineas: []
+          renvois: []
+      - numero: "934"
+        numero_tri: 934.0
+        ordre: 941
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Là où il n’existe pas de Tribunaux pour enfants, les compétences leurs dévolues par la présente loi sont exercées par les Tribunaux de paix ».
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Là où il n’existe pas de Tribunaux pour enfants, les compétences leurs dévolues par la présente loi sont exercées par les Tribunaux de paix ».
+          renvois: []
+      - numero: "935"
+        numero_tri: 935.0
+        ordre: 942
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            La présente loi entre en vigueur douze mois à dater de sa promulgation. Fait à Gbado-Lite, le 1er Août 1987.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  La présente loi entre en vigueur douze mois à dater de sa promulgation. Fait à Gbado-Lite, le 1er Août 1987.
+          renvois: []
+    divisions: []

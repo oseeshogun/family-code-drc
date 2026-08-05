@@ -1,0 +1,54 @@
+# Anomalies détectées dans la source. Aucune n'a été corrigée
+# automatiquement : la décision appartient au juriste.
+anomalies:
+  - type: numero_duplique
+    numero: "327"
+    occurrences: [325, 333]
+    consequence: "deux articles portent le même numéro dans la compilation"
+  - type: rupture_de_sequence
+    numero: "327"
+    numero_precedent: 336
+    ordre_apparition: 333
+    consequence: "bloc inséré hors de sa position logique dans le PDF"
+  - type: rupture_de_sequence
+    numero: "328"
+    numero_precedent: 336
+    ordre_apparition: 334
+    consequence: "bloc inséré hors de sa position logique dans le PDF"
+  - type: rupture_de_sequence
+    numero: "329"
+    numero_precedent: 336
+    ordre_apparition: 335
+    consequence: "bloc inséré hors de sa position logique dans le PDF"
+  - type: numeros_absents
+    numeros: [54, 55]
+    consequence: "aucun article portant ces numéros dans la compilation"
+  - type: contenu_tronque
+    numero: "53"
+    ordre_apparition: 53
+    fin_observee: "La présente Loi entre en vigueur à la date de sa publication"
+    consequence: "le texte s'interrompt sans ponctuation finale"
+  - type: contenu_tronque
+    numero: "302"
+    ordre_apparition: 300
+    fin_observee: "ur dès sa majorité, au cours de l'année qui précède celle-ci"
+    consequence: "le texte s'interrompt sans ponctuation finale"
+  - type: contenu_tronque
+    numero: "327"
+    ordre_apparition: 325
+    fin_observee: "ssance, ni aux biens provenant d'une succession dont le père"
+    consequence: "le texte s'interrompt sans ponctuation finale"
+  - type: contenu_tronque
+    numero: "504"
+    ordre_apparition: 503
+    fin_observee: "fants en proportion de leurs facultés et de leur état actuel"
+    consequence: "le texte s'interrompt sans ponctuation finale"
+  - type: entete_au_pluriel
+    numero: "506"
+    ordre_apparition: 505
+    consequence: "coquille de la compilation : « Articles N : » au lieu de « Article N : »"
+  - type: contenu_tronque
+    numero: "924"
+    ordre_apparition: 931
+    fin_observee: "oi ou la coutume en vigueur au moment où ils sont intervenus"
+    consequence: "le texte s'interrompt sans ponctuation finale"

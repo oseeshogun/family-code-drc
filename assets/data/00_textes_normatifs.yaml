@@ -1,0 +1,38 @@
+# Textes normatifs -> table texte_normatif
+textes_normatifs:
+  - id: loi-87-010
+    numero: "87-010"
+    nature: loi
+    intitule: "Loi portant Code de la famille"
+    date_promulgation: 1987-08-01
+    reference_jo: "J.O.Z., numéro spécial, août 1987"
+    date_entree_vigueur: 1988-08-01
+    commentaire: "Entrée en vigueur douze mois après promulgation (art. 935)."
+
+  - id: loi-16-008
+    numero: "16/008"
+    nature: loi
+    intitule: "Loi modifiant et complétant la Loi n° 87-010 du 1er août 1987 portant Code de la famille"
+    date_promulgation: 2016-07-15
+    reference_jo: "J.O.RDC, numéro spécial, 15 juillet 2016"
+    date_entree_vigueur: 2016-07-15
+    commentaire: "À vérifier contre le Journal officiel : la source utilisée est une compilation privée."
+
+codes:
+  - id: code-famille-rdc
+    intitule: "Code de la famille"
+    juridiction: "République Démocratique du Congo"
+    texte_instituant: loi-87-010
+
+sources_documentaires:
+  - id: src-cdf-2017-pdf
+    titre: "CDF_2017.pdf"
+    editeur: "compilation privée, éditeur non identifié"
+    nature_source: compilation
+    est_officiel: false
+    date_edition: 2018-02-25
+    nombre_pages: 144
+    avertissement: >-
+      Le document porte une mention de non-responsabilité de son éditeur.
+      Toute donnée importée depuis cette source doit être recoupée avec le
+      Journal officiel avant usage juridique.

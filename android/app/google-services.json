@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600865311654",
+    "project_id": "family-code-drc",
+    "storage_bucket": "family-code-drc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600865311654:android:284f46a8f5bb189ab4dd67",
+        "android_client_info": {
+          "package_name": "com.oseemasuaku.family_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXCXmI-A4OmpWHGVizMxHPbUSsIXy9rOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

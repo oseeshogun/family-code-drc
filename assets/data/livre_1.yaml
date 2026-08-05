@@ -1,0 +1,1387 @@
+# Livre I - DE LA NATIONALITE
+# Généré par parse_cdf.py depuis CDF_2017.pdf
+code: code-famille-rdc
+source: src-cdf-2017-pdf
+livre:
+  numero: I
+  intitule: DE LA NATIONALITE
+  ordre: 1
+  chemin: "1"
+  nombre_articles: 53
+  nombre_divisions: 29
+divisions:
+  - type: chapitre
+    numero: "1"
+    intitule: "Des dispositions générales"
+    ordre: 1
+    chemin: "1.1"
+    articles:
+      - numero: "1"
+        numero_tri: 1.0
+        ordre: 1
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            La nationalité congolaise est une et exclusive. Elle ne peut être détenue concurremment avec une autre nationalité. Elle est soit d'origine, soit acquise par l'effet de la naturalisation, de l'option, de l'adoption, du mariage ou de la naissance et de la résidence en République Démocratique du Congo.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  La nationalité congolaise est une et exclusive. Elle ne peut être détenue concurremment avec une autre nationalité. Elle est soit d'origine, soit acquise par l'effet de la naturalisation, de l'option, de l'adoption, du mariage ou de la naissance et de la résidence en République Démocratique du Congo.
+          renvois: []
+      - numero: "2"
+        numero_tri: 2.0
+        ordre: 2
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            La nationalité congolaise est reconnue, s'acquiert ou se perd selon les dispositions fixées par la présente Loi, sous réserve de l'application des conventions internationales et des principes de droit reconnus en matière de nationalité.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  La nationalité congolaise est reconnue, s'acquiert ou se perd selon les dispositions fixées par la présente Loi, sous réserve de l'application des conventions internationales et des principes de droit reconnus en matière de nationalité.
+          renvois: []
+      - numero: "3"
+        numero_tri: 3.0
+        ordre: 3
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            La reconnaissance, l'acquisition, la perte et le recouvrement de la nationalité congolaise, de quelque cause qu'ils procèdent, ne produisent d'effet que pour l'avenir.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  La reconnaissance, l'acquisition, la perte et le recouvrement de la nationalité congolaise, de quelque cause qu'ils procèdent, ne produisent d'effet que pour l'avenir.
+          renvois: []
+      - numero: "4"
+        numero_tri: 4.0
+        ordre: 4
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Tous les groupes ethniques et nationalités dont les personnes et le territoire constituaient ce qui est devenu le Congo (présentement la République Démocratique du Congo) à l'indépendance, doivent bénéficier de l'égalité des droits et de la protection aux termes de la Loi en tant que citoyens. A ce titre, ils sont soumis aux mêmes obligations.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Tous les groupes ethniques et nationalités dont les personnes et le territoire constituaient ce qui est devenu le Congo (présentement la République Démocratique du Congo) à l'indépendance, doivent bénéficier de l'égalité des droits et de la protection aux termes de la Loi en tant que citoyens. A ce titre, ils sont soumis aux mêmes obligations.
+          renvois: []
+      - numero: "5"
+        numero_tri: 5.0
+        ordre: 5
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Au sens de la présente Loi, on entend par:
+            1. «mineur»: l'individu n'ayant pas encore atteint l'âge de la majorité civile tel que fixé par la Loi;
+            2. « enfant né en République Démocratique du Congo»: l'enfant dont la naissance est survenue sur le territoire de la République Démocratique du Congo ou à bord d'un aéronef ou d'un navire congolais;
+            3. « enfant nouveau-né trouvé en République Démocratique du Congo»: tout enfant nouveau-né issu de parents inconnus et trouvé sur le territoire de la République Démocratique du Congo ou à bord d'un aéronef ou d'un navire congolais;
+            4. «apatride»: toute personne qu'aucun Etat ne considère comme son ressortissant par l'application de sa législation;
+            5. «citoyen»: personne dont la jouissance de tous les droits civils et politiques, notamment le droit d'élire et d'être élu la différencie d'un étranger ou un membre d'un Etat, considéré du point de vue de ses devoirs envers la patrie et de ses droits politiques.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Au sens de la présente Loi, on entend par:
+            - ordre: 2
+              type: point
+              contenu: |-
+                  1. «mineur»: l'individu n'ayant pas encore atteint l'âge de la majorité civile tel que fixé par la Loi;
+            - ordre: 3
+              type: point
+              contenu: |-
+                  2. « enfant né en République Démocratique du Congo»: l'enfant dont la naissance est survenue sur le territoire de la République Démocratique du Congo ou à bord d'un aéronef ou d'un navire congolais;
+            - ordre: 4
+              type: point
+              contenu: |-
+                  3. « enfant nouveau-né trouvé en République Démocratique du Congo»: tout enfant nouveau-né issu de parents inconnus et trouvé sur le territoire de la République Démocratique du Congo ou à bord d'un aéronef ou d'un navire congolais;
+            - ordre: 5
+              type: point
+              contenu: |-
+                  4. «apatride»: toute personne qu'aucun Etat ne considère comme son ressortissant par l'application de sa législation;
+            - ordre: 6
+              type: point
+              contenu: |-
+                  5. «citoyen»: personne dont la jouissance de tous les droits civils et politiques, notamment le droit d'élire et d'être élu la différencie d'un étranger ou un membre d'un Etat, considéré du point de vue de ses devoirs envers la patrie et de ses droits politiques.
+          renvois: []
+    divisions: []
+  - type: chapitre
+    numero: "2"
+    intitule: "De la nationalité congolaise d'origine"
+    ordre: 2
+    chemin: "1.2"
+    articles: []
+    divisions:
+      - type: section
+        numero: "1"
+        intitule: Des Congolais par appartenance
+        ordre: 1
+        chemin: "1.2.1"
+        articles:
+          - numero: "6"
+            numero_tri: 6.0
+            ordre: 6
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Est Congolais d'origine, toute personne appartenant aux groupes ethniques et nationalités dont les personnes et le territoire constituaient ce qui est devenu le Congo (présentement la République Démocratique du Congo) à l'indépendance.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Est Congolais d'origine, toute personne appartenant aux groupes ethniques et nationalités dont les personnes et le territoire constituaient ce qui est devenu le Congo (présentement la République Démocratique du Congo) à l'indépendance.
+              renvois: []
+        divisions: []
+      - type: section
+        numero: "2"
+        intitule: Des Congolais par filiation
+        ordre: 2
+        chemin: "1.2.2"
+        articles:
+          - numero: "7"
+            numero_tri: 7.0
+            ordre: 7
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Est Congolais dès la naissance, l'enfant dont l'un des parents- le père ou la mère- est Congolais. La filiation de l'enfant n'a d'effet sur la nationalité de celui-ci que si elle est établie durant sa minorité conformément à la législation congolaise.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Est Congolais dès la naissance, l'enfant dont l'un des parents- le père ou la mère- est Congolais. La filiation de l'enfant n'a d'effet sur la nationalité de celui-ci que si elle est établie durant sa minorité conformément à la législation congolaise.
+              renvois: []
+        divisions: []
+      - type: section
+        numero: "3"
+        intitule: "Des Congolais par présomption de la Loi"
+        ordre: 3
+        chemin: "1.2.3"
+        articles:
+          - numero: "8"
+            numero_tri: 8.0
+            ordre: 8
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Est Congolais par présomption de la Loi, l'enfant nouveau-né trouvé en République Démocratique du Congo dont les parents sont inconnus. Toutefois, il sera réputé n'avoir jamais été Congolais si, au cours de sa minorité, sa filiation est établie à l'égard d'un étranger et s'il a, conformément à la Loi nationale de son parent, la nationalité de celuici.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Est Congolais par présomption de la Loi, l'enfant nouveau-né trouvé en République Démocratique du Congo dont les parents sont inconnus. Toutefois, il sera réputé n'avoir jamais été Congolais si, au cours de sa minorité, sa filiation est établie à l'égard d'un étranger et s'il a, conformément à la Loi nationale de son parent, la nationalité de celuici.
+              renvois: []
+          - numero: "9"
+            numero_tri: 9.0
+            ordre: 9
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Est également congolais par présomption de la Loi:
+                1. 2.
+                l'enfant né en République Démocratique du Congo de parents ayant le statut d'apatride; l'enfant né en République Démocratique du Congo de parents étrangers dont la nationalité ne se transmet pas à l'enfant du fait de la législation de l'Etat d'origine qui ne reconnaît que le jus soli ou ne reconnaît pas d'effet sur la nationalité à la filiation naturelle.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Est également congolais par présomption de la Loi:
+                - ordre: 2
+                  type: point
+                  contenu: |-
+                      1. 2.
+                - ordre: 3
+                  type: alinea
+                  contenu: |-
+                      l'enfant né en République Démocratique du Congo de parents ayant le statut d'apatride; l'enfant né en République Démocratique du Congo de parents étrangers dont la nationalité ne se transmet pas à l'enfant du fait de la législation de l'Etat d'origine qui ne reconnaît que le jus soli ou ne reconnaît pas d'effet sur la nationalité à la filiation naturelle.
+              renvois: []
+        divisions: []
+  - type: chapitre
+    numero: "3"
+    intitule: "De la nationalité congolaise d'acquisition"
+    ordre: 3
+    chemin: "1.3"
+    articles: []
+    divisions:
+      - type: section
+        numero: "1"
+        intitule: "Des modes d'acquisition de la nationalité congolaise"
+        ordre: 1
+        chemin: "1.3.1"
+        articles:
+          - numero: "10"
+            numero_tri: 10.0
+            ordre: 10
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                La nationalité congolaise s'acquiert par l'effet de la naturalisation, de l'option, de l'adoption, du mariage ou de la naissance et de la résidence en République Démocratique du Congo.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      La nationalité congolaise s'acquiert par l'effet de la naturalisation, de l'option, de l'adoption, du mariage ou de la naissance et de la résidence en République Démocratique du Congo.
+              renvois: []
+        divisions:
+          - type: paragraphe
+            numero: "1"
+            intitule: "De l'acquisition de la nationalité congolaise par l'effet de la naturalisation"
+            ordre: 1
+            chemin: "1.3.1.1"
+            articles:
+              - numero: "11"
+                numero_tri: 11.0
+                ordre: 11
+                version:
+                  num_version: 1
+                  statut: en_vigueur
+                  texte_source: null
+                  date_debut_vigueur: null
+                  date_fin_vigueur: null
+                  contenu: |-
+                    Sans préjudice des dispositions des articles 22 et 34 de la présente Loi, la nationalité Congolaise peut être conférée par naturalisation, après avis conforme de l'Assemblée Nationale, à tout étranger qui a rendu d'éminents services à la République Démocratique du Congo, ou à celui dont la naturalisation présente pour la République Démocratique du Congo un intérêt réel à impact visible.
+                  alineas:
+                    - ordre: 1
+                      type: alinea
+                      contenu: |-
+                          Sans préjudice des dispositions des articles 22 et 34 de la présente Loi, la nationalité Congolaise peut être conférée par naturalisation, après avis conforme de l'Assemblée Nationale, à tout étranger qui a rendu d'éminents services à la République Démocratique du Congo, ou à celui dont la naturalisation présente pour la République Démocratique du Congo un intérêt réel à impact visible.
+                  renvois:
+                    - article_cible: "22"
+                      portee: interne
+              - numero: "12"
+                numero_tri: 12.0
+                ordre: 12
+                version:
+                  num_version: 1
+                  statut: en_vigueur
+                  texte_source: null
+                  date_debut_vigueur: null
+                  date_fin_vigueur: null
+                  contenu: |-
+                    Le Décret accordant la naturalisation est délibéré en Conseil des Ministres sur proposition du Ministre de la Justice et Garde des Sceaux. Le Président de la République signe ce Décret après avis conforme de l'Assemblée Nationale. Le requérant qui aura obtenu la naturalisation par Décret, sera admis à jouir de la qualité de citoyen congolais, mais seulement à partir du moment où il aura prêté serment, devant la Cour d'appel de sa résidence, d'être fidèle à la République Démocratique du Congo, de respecter ses lois, de n'invoquer dans ce territoire la protection d'un autre Etat, de ne jamais porter des armes contre lui et ses citoyens en faveur d'une autre puissance et de ne jamais contrecarrer ses intérêts.
+                  alineas:
+                    - ordre: 1
+                      type: alinea
+                      contenu: |-
+                          Le Décret accordant la naturalisation est délibéré en Conseil des Ministres sur proposition du Ministre de la Justice et Garde des Sceaux. Le Président de la République signe ce Décret après avis conforme de l'Assemblée Nationale. Le requérant qui aura obtenu la naturalisation par Décret, sera admis à jouir de la qualité de citoyen congolais, mais seulement à partir du moment où il aura prêté serment, devant la Cour d'appel de sa résidence, d'être fidèle à la République Démocratique du Congo, de respecter ses lois, de n'invoquer dans ce territoire la protection d'un autre Etat, de ne jamais porter des armes contre lui et ses citoyens en faveur d'une autre puissance et de ne jamais contrecarrer ses intérêts.
+                  renvois: []
+            divisions: []
+          - type: paragraphe
+            numero: "2"
+            intitule: "De l'acquisition de la nationalité congolaise par l'effet de l'option"
+            ordre: 2
+            chemin: "1.3.1.2"
+            articles:
+              - numero: "13"
+                numero_tri: 13.0
+                ordre: 13
+                version:
+                  num_version: 1
+                  statut: en_vigueur
+                  texte_source: null
+                  date_debut_vigueur: null
+                  date_fin_vigueur: null
+                  contenu: |-
+                    Peut acquérir la nationalité congolaise par l'effet de l'option:
+                    1. 2.
+                    3. l'enfant né en République Démocratique du Congo ou à l'étranger de parents dont l'un a eu la nationalité congolaise; l'enfant adopté légalement par un Congolais; l'enfant dont l'un des parents adoptifs a acquis ou recouvré volontairement la nationalité congolaise.
+                  alineas:
+                    - ordre: 1
+                      type: alinea
+                      contenu: |-
+                          Peut acquérir la nationalité congolaise par l'effet de l'option:
+                    - ordre: 2
+                      type: point
+                      contenu: |-
+                          1. 2.
+                    - ordre: 3
+                      type: point
+                      contenu: |-
+                          3. l'enfant né en République Démocratique du Congo ou à l'étranger de parents dont l'un a eu la nationalité congolaise; l'enfant adopté légalement par un Congolais; l'enfant dont l'un des parents adoptifs a acquis ou recouvré volontairement la nationalité congolaise.
+                  renvois: []
+              - numero: "14"
+                numero_tri: 14.0
+                ordre: 14
+                version:
+                  num_version: 1
+                  statut: en_vigueur
+                  texte_source: null
+                  date_debut_vigueur: null
+                  date_fin_vigueur: null
+                  contenu: |-
+                    L'enfant mineur non émancipé dont le père ou la mère a obtenu la nationalité congolaise par l'effet de l'option acquiert de plein droit la nationalité congolaise en même temps que son parent. L'enfant mineur non émancipé dont le père ou la mère est inconnu, acquiert la nationalité congolaise conformément aux dispositions de l'article 8 de la présente Loi.
+                  alineas:
+                    - ordre: 1
+                      type: alinea
+                      contenu: |-
+                          L'enfant mineur non émancipé dont le père ou la mère a obtenu la nationalité congolaise par l'effet de l'option acquiert de plein droit la nationalité congolaise en même temps que son parent. L'enfant mineur non émancipé dont le père ou la mère est inconnu, acquiert la nationalité congolaise conformément aux dispositions de l'article 8 de la présente Loi.
+                  renvois:
+                    - article_cible: "8"
+                      portee: interne
+              - numero: "15"
+                numero_tri: 15.0
+                ordre: 15
+                version:
+                  num_version: 1
+                  statut: en_vigueur
+                  texte_source: null
+                  date_debut_vigueur: null
+                  date_fin_vigueur: null
+                  contenu: |-
+                    L'option n'est recevable que si l'impétrant:
+                    1. réside en République Démocratique du Congo depuis au moins 5 ans;
+                    2. parle une des langues congolaises;
+                    3. dépose une déclaration d'engagement à la renonciation à toute autre nationalité.
+                  alineas:
+                    - ordre: 1
+                      type: alinea
+                      contenu: |-
+                          L'option n'est recevable que si l'impétrant:
+                    - ordre: 2
+                      type: point
+                      contenu: |-
+                          1. réside en République Démocratique du Congo depuis au moins 5 ans;
+                    - ordre: 3
+                      type: point
+                      contenu: |-
+                          2. parle une des langues congolaises;
+                    - ordre: 4
+                      type: point
+                      contenu: |-
+                          3. dépose une déclaration d'engagement à la renonciation à toute autre nationalité.
+                  renvois: []
+              - numero: "16"
+                numero_tri: 16.0
+                ordre: 16
+                version:
+                  num_version: 1
+                  statut: en_vigueur
+                  texte_source: null
+                  date_debut_vigueur: null
+                  date_fin_vigueur: null
+                  contenu: |-
+                    La déclaration d'option doit être faite dans les six mois qui suivent la majorité civile conformément aux dispositions de l'article 34 de la présente Loi. Elle prend effet au jour de son enregistrement. Sans préjudice des dispositions de l'article 22 de la présente Loi, le Gouvernement peut s'opposer à l'acquisition par un étranger de la nationalité par voie d'option pour indignité de l'impétrant.
+                  alineas:
+                    - ordre: 1
+                      type: alinea
+                      contenu: |-
+                          La déclaration d'option doit être faite dans les six mois qui suivent la majorité civile conformément aux dispositions de l'article 34 de la présente Loi. Elle prend effet au jour de son enregistrement. Sans préjudice des dispositions de l'article 22 de la présente Loi, le Gouvernement peut s'opposer à l'acquisition par un étranger de la nationalité par voie d'option pour indignité de l'impétrant.
+                  renvois:
+                    - article_cible: "34"
+                      portee: interne
+                    - article_cible: "22"
+                      portee: interne
+            divisions: []
+          - type: paragraphe
+            numero: "3"
+            intitule: "De l'acquisition de la nationalité congolaise par l'effet de l'adoption"
+            ordre: 3
+            chemin: "1.3.1.3"
+            articles:
+              - numero: "17"
+                numero_tri: 17.0
+                ordre: 17
+                version:
+                  num_version: 1
+                  statut: en_vigueur
+                  texte_source: null
+                  date_debut_vigueur: null
+                  date_fin_vigueur: null
+                  contenu: |-
+                    Peut acquérir la nationalité congolaise par l'effet de l'adoption:
+                    1. l'enfant mineur légalement adopté par un congolais;
+                    2. l'enfant mineur dont le parent adoptif est devenu congolais;
+                    3. l'enfant mineur dont le parent adoptif a recouvré volontairement la nationalité congolaise.
+                    Toutefois, l'enfant légalement adopté pourra, pendant les six mois qui suivent sa majorité, renoncer à sa nationalité congolaise conformément aux dispositions de la présente Loi, à condition d'établir qu'il a acquis une nationalité étrangère. La déclaration de la renonciation prend effet au jour de son enregistrement.
+                  alineas:
+                    - ordre: 1
+                      type: alinea
+                      contenu: |-
+                          Peut acquérir la nationalité congolaise par l'effet de l'adoption:
+                    - ordre: 2
+                      type: point
+                      contenu: |-
+                          1. l'enfant mineur légalement adopté par un congolais;
+                    - ordre: 3
+                      type: point
+                      contenu: |-
+                          2. l'enfant mineur dont le parent adoptif est devenu congolais;
+                    - ordre: 4
+                      type: point
+                      contenu: |-
+                          3. l'enfant mineur dont le parent adoptif a recouvré volontairement la nationalité congolaise.
+                    - ordre: 5
+                      type: alinea
+                      contenu: |-
+                          Toutefois, l'enfant légalement adopté pourra, pendant les six mois qui suivent sa majorité, renoncer à sa nationalité congolaise conformément aux dispositions de la présente Loi, à condition d'établir qu'il a acquis une nationalité étrangère. La déclaration de la renonciation prend effet au jour de son enregistrement.
+                  renvois: []
+            divisions: []
+          - type: paragraphe
+            numero: "4"
+            intitule: "De l'acquisition de la nationalité congolaise par l'effet du mariage"
+            ordre: 4
+            chemin: "1.3.1.4"
+            articles:
+              - numero: "18"
+                numero_tri: 18.0
+                ordre: 18
+                version:
+                  num_version: 1
+                  statut: en_vigueur
+                  texte_source: null
+                  date_debut_vigueur: null
+                  date_fin_vigueur: null
+                  contenu: |-
+                    Le mariage n'exerce de plein droit aucun effet sur la nationalité congolaise.
+                  alineas:
+                    - ordre: 1
+                      type: alinea
+                      contenu: |-
+                          Le mariage n'exerce de plein droit aucun effet sur la nationalité congolaise.
+                  renvois: []
+              - numero: "19"
+                numero_tri: 19.0
+                ordre: 19
+                version:
+                  num_version: 1
+                  statut: en_vigueur
+                  texte_source: null
+                  date_debut_vigueur: null
+                  date_fin_vigueur: null
+                  contenu: |-
+                    L'étranger ou l'apatride qui contracte le mariage avec un conjoint de nationalité congolaise peut, après un délai de 7 ans à compter du mariage, acquérir la nationalité congolaise par Décret délibéré en Conseil des Ministres sur proposition du Ministre de la Justice et Garde des Sceaux, à condition qu'à la
+                    date du dépôt de la demande, la communauté de vie n'ait pas cessé entre les époux et que le conjoint congolais ait conservé sa nationalité. Le Décret ne peut être signé qu'après avis conforme de l'Assemblée Nationale. Ce Décret mentionne, le cas échéant, les noms des enfants mineurs concernés par l'effet collectif de la nationalité et prend effet à la date de sa signature. Il est publié au Journal Officiel et notifié à l'intéressé.
+                  alineas:
+                    - ordre: 1
+                      type: alinea
+                      contenu: |-
+                          L'étranger ou l'apatride qui contracte le mariage avec un conjoint de nationalité congolaise peut, après un délai de 7 ans à compter du mariage, acquérir la nationalité congolaise par Décret délibéré en Conseil des Ministres sur proposition du Ministre de la Justice et Garde des Sceaux, à condition qu'à la
+                    - ordre: 2
+                      type: alinea
+                      contenu: |-
+                          date du dépôt de la demande, la communauté de vie n'ait pas cessé entre les époux et que le conjoint congolais ait conservé sa nationalité. Le Décret ne peut être signé qu'après avis conforme de l'Assemblée Nationale. Ce Décret mentionne, le cas échéant, les noms des enfants mineurs concernés par l'effet collectif de la nationalité et prend effet à la date de sa signature. Il est publié au Journal Officiel et notifié à l'intéressé.
+                  renvois: []
+              - numero: "20"
+                numero_tri: 20.0
+                ordre: 20
+                version:
+                  num_version: 1
+                  statut: en_vigueur
+                  texte_source: null
+                  date_debut_vigueur: null
+                  date_fin_vigueur: null
+                  contenu: |-
+                    L'annulation du mariage n'a point d'effet sur la nationalité des enfants qui en sont issus.
+                  alineas:
+                    - ordre: 1
+                      type: alinea
+                      contenu: |-
+                          L'annulation du mariage n'a point d'effet sur la nationalité des enfants qui en sont issus.
+                  renvois: []
+            divisions: []
+          - type: paragraphe
+            numero: "5"
+            intitule: "De l'acquisition de la nationalité congolaise par l'effet de la naissance et de la"
+            ordre: 5
+            chemin: "1.3.1.5"
+            articles:
+              - numero: "21"
+                numero_tri: 21.0
+                ordre: 21
+                version:
+                  num_version: 1
+                  statut: en_vigueur
+                  texte_source: null
+                  date_debut_vigueur: null
+                  date_fin_vigueur: null
+                  contenu: |-
+                    Tout enfant né en République Démocratique du Congo de parents étrangers peut, à partir de l'âge de 18 ans accomplis, acquérir la nationalité congolaise à condition qu'il en manifeste par écrit la volonté et qu'à cette date il justifie d'une résidence permanente en République Démocratique du Congo.
+                  alineas:
+                    - ordre: 1
+                      type: alinea
+                      contenu: |-
+                          Tout enfant né en République Démocratique du Congo de parents étrangers peut, à partir de l'âge de 18 ans accomplis, acquérir la nationalité congolaise à condition qu'il en manifeste par écrit la volonté et qu'à cette date il justifie d'une résidence permanente en République Démocratique du Congo.
+                  renvois: []
+            divisions: []
+      - type: section
+        numero: "2"
+        intitule: "Des dispositions communes relatives à la nationalité congolaise d'acquisition"
+        ordre: 2
+        chemin: "1.3.2"
+        articles:
+          - numero: "22"
+            numero_tri: 22.0
+            ordre: 22
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                La nationalité congolaise par acquisition est soumise aux conditions suivantes:
+                1. être majeur;
+                2. introduire expressément une déclaration individuelle;
+                3. déposer une déclaration d'engagement par écrit de renonciation à toute autre nationalité;
+                4. savoir parler une des langues congolaises;
+                5. être de bonne vie et mœurs;
+                6. avoir à la date de la demande une résidence permanente en République Démocratique du Congo depuis 7 ans;
+                7. ne s'être jamais livré au profit d'un Etat étranger, à des actes incompatibles avec la qualité de congolais, ou préjudiciables aux intérêts de la République Démocratique du Congo;
+                8. n'avoir pas fait l'objet d'une condamnation définitive par les juridictions nationales ou étrangères pour l'une des infractions ci-après: a.
+                haute trahison;
+                b.
+                atteinte à la sûreté de l'Etat;
+                c.
+                crimes de guerre, crimes de génocide, crimes contre l'humanité, crimes d'agression;
+                d.
+                crimes de terrorisme, assassinat, meurtre, viol, viol des mineurs et pédophilie;
+                e.
+                crimes économiques, blanchiment de capitaux, contrefaçon, fraude fiscale, fraude douanière, corruption, trafic d'armes, trafic de drogue.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      La nationalité congolaise par acquisition est soumise aux conditions suivantes:
+                - ordre: 2
+                  type: point
+                  contenu: |-
+                      1. être majeur;
+                - ordre: 3
+                  type: point
+                  contenu: |-
+                      2. introduire expressément une déclaration individuelle;
+                - ordre: 4
+                  type: point
+                  contenu: |-
+                      3. déposer une déclaration d'engagement par écrit de renonciation à toute autre nationalité;
+                - ordre: 5
+                  type: point
+                  contenu: |-
+                      4. savoir parler une des langues congolaises;
+                - ordre: 6
+                  type: point
+                  contenu: |-
+                      5. être de bonne vie et mœurs;
+                - ordre: 7
+                  type: point
+                  contenu: |-
+                      6. avoir à la date de la demande une résidence permanente en République Démocratique du Congo depuis 7 ans;
+                - ordre: 8
+                  type: point
+                  contenu: |-
+                      7. ne s'être jamais livré au profit d'un Etat étranger, à des actes incompatibles avec la qualité de congolais, ou préjudiciables aux intérêts de la République Démocratique du Congo;
+                - ordre: 9
+                  type: point
+                  contenu: |-
+                      8. n'avoir pas fait l'objet d'une condamnation définitive par les juridictions nationales ou étrangères pour l'une des infractions ci-après: a.
+                - ordre: 10
+                  type: alinea
+                  contenu: |-
+                      haute trahison;
+                - ordre: 11
+                  type: alinea
+                  contenu: |-
+                      b.
+                - ordre: 12
+                  type: alinea
+                  contenu: |-
+                      atteinte à la sûreté de l'Etat;
+                - ordre: 13
+                  type: alinea
+                  contenu: |-
+                      c.
+                - ordre: 14
+                  type: alinea
+                  contenu: |-
+                      crimes de guerre, crimes de génocide, crimes contre l'humanité, crimes d'agression;
+                - ordre: 15
+                  type: alinea
+                  contenu: |-
+                      d.
+                - ordre: 16
+                  type: alinea
+                  contenu: |-
+                      crimes de terrorisme, assassinat, meurtre, viol, viol des mineurs et pédophilie;
+                - ordre: 17
+                  type: alinea
+                  contenu: |-
+                      e.
+                - ordre: 18
+                  type: alinea
+                  contenu: |-
+                      crimes économiques, blanchiment de capitaux, contrefaçon, fraude fiscale, fraude douanière, corruption, trafic d'armes, trafic de drogue.
+              renvois: []
+          - numero: "23"
+            numero_tri: 23.0
+            ordre: 23
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Dès l'acquisition de la nationalité congolaise par l'étranger, le Ministre de la justice et Garde des Sceaux est tenu de notifier, endéans trois mois et par voie diplomatique, la décision d'octroi de la nationalité au Gouvernement du pays d'origine de l'impétrant.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Dès l'acquisition de la nationalité congolaise par l'étranger, le Ministre de la justice et Garde des Sceaux est tenu de notifier, endéans trois mois et par voie diplomatique, la décision d'octroi de la nationalité au Gouvernement du pays d'origine de l'impétrant.
+              renvois: []
+        divisions: []
+      - type: section
+        numero: "3"
+        intitule: "Des effets de l'acquisition de la nationalité congolaise"
+        ordre: 3
+        chemin: "1.3.3"
+        articles:
+          - numero: "24"
+            numero_tri: 24.0
+            ordre: 24
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                La personne qui a acquis la nationalité congolaise, jouit de tous les droits et est tenue à toutes les obligations attachées à la nationalité congolaise à dater du jour de cette acquisition. Toutefois, les lois particulières peuvent exclure de l'exercice de certaines fonctions publiques les personnes bénéficiaires de la nationalité congolaise d'acquisition.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      La personne qui a acquis la nationalité congolaise, jouit de tous les droits et est tenue à toutes les obligations attachées à la nationalité congolaise à dater du jour de cette acquisition. Toutefois, les lois particulières peuvent exclure de l'exercice de certaines fonctions publiques les personnes bénéficiaires de la nationalité congolaise d'acquisition.
+              renvois: []
+          - numero: "25"
+            numero_tri: 25.0
+            ordre: 25
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                L'enfant âgé de moins de 18 ans dont l'un des parents acquiert la nationalité congolaise devient Congolais de plein droit.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      L'enfant âgé de moins de 18 ans dont l'un des parents acquiert la nationalité congolaise devient Congolais de plein droit.
+              renvois: []
+        divisions: []
+  - type: chapitre
+    numero: "4"
+    intitule: "De la perte, de la déchéance et du recouvrement de la nationalité congolaise"
+    ordre: 4
+    chemin: "1.4"
+    articles: []
+    divisions:
+      - type: section
+        numero: "1"
+        intitule: "De la perte de la nationalité congolaise"
+        ordre: 1
+        chemin: "1.4.1"
+        articles:
+          - numero: "26"
+            numero_tri: 26.0
+            ordre: 26
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Toute personne de nationalité congolaise qui acquiert une nationalité étrangère perd la nationalité congolaise en vertu des dispositions de l'article 1er de la présente Loi.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Toute personne de nationalité congolaise qui acquiert une nationalité étrangère perd la nationalité congolaise en vertu des dispositions de l'article 1er de la présente Loi.
+              renvois:
+                - article_cible: "1"
+                  portee: interne
+        divisions: []
+      - type: section
+        numero: "2"
+        intitule: "De la déchéance de la nationalité congolaise"
+        ordre: 2
+        chemin: "1.4.2"
+        articles:
+          - numero: "27"
+            numero_tri: 27.0
+            ordre: 27
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Sans préjudice des dispositions de l'article 29 de la présente Loi, le Gouvernement prononce, dans un délai d'un an, à compter de la découverte de la faute, la déchéance de la nationalité si l'impétrant l'a obtenue en violation des dispositions de l'article 22. Par cette déchéance, l'intéressé est réputé n'avoir jamais acquis la nationalité congolaise.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Sans préjudice des dispositions de l'article 29 de la présente Loi, le Gouvernement prononce, dans un délai d'un an, à compter de la découverte de la faute, la déchéance de la nationalité si l'impétrant l'a obtenue en violation des dispositions de l'article 22. Par cette déchéance, l'intéressé est réputé n'avoir jamais acquis la nationalité congolaise.
+              renvois:
+                - article_cible: "29"
+                  portee: interne
+                - article_cible: "22"
+                  portee: interne
+          - numero: "28"
+            numero_tri: 28.0
+            ordre: 28
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Sans préjudice des dispositions de l'article 22 de la présente Loi, la déchéance est encourue : -
+                si l'étranger qui a bénéficié de la nationalité d'acquisition a toutefois conservé sa nationalité d'origine;
+                -
+                s'il a acquis la nationalité congolaise par fraude, par déclaration erronée ou mensongère, par dol, ou sur présentation d'une fausse pièce contenant une assertion mensongère ou erronée;
+                -
+                s'il s'est rendu coupable de corruption ou de concussion envers une personne appelée à concourir au déroulement de la procédure tendant à acquérir la nationalité congolaise.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Sans préjudice des dispositions de l'article 22 de la présente Loi, la déchéance est encourue : -
+                - ordre: 2
+                  type: alinea
+                  contenu: |-
+                      si l'étranger qui a bénéficié de la nationalité d'acquisition a toutefois conservé sa nationalité d'origine;
+                - ordre: 3
+                  type: alinea
+                  contenu: |-
+                      -
+                - ordre: 4
+                  type: alinea
+                  contenu: |-
+                      s'il a acquis la nationalité congolaise par fraude, par déclaration erronée ou mensongère, par dol, ou sur présentation d'une fausse pièce contenant une assertion mensongère ou erronée;
+                - ordre: 5
+                  type: alinea
+                  contenu: |-
+                      -
+                - ordre: 6
+                  type: alinea
+                  contenu: |-
+                      s'il s'est rendu coupable de corruption ou de concussion envers une personne appelée à concourir au déroulement de la procédure tendant à acquérir la nationalité congolaise.
+              renvois:
+                - article_cible: "22"
+                  portee: interne
+          - numero: "29"
+            numero_tri: 29.0
+            ordre: 29
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Le Gouvernement est tenu de prononcer par Décret délibéré en Conseil des Ministres la déchéance de la nationalité congolaise de la personne incriminée. Toutefois, ce Décret ne peut être pris qu'après avis conforme de l'Assemblée Nationale. Le Décret est notifié au concerné par les soins du Ministre de la Justice et Garde des Sceaux. Il peut faire l'objet d'un recours gracieux auprès du Président de la République et, le cas échéant, d'un recours en annulation devant la Cour Suprême de Justice.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Le Gouvernement est tenu de prononcer par Décret délibéré en Conseil des Ministres la déchéance de la nationalité congolaise de la personne incriminée. Toutefois, ce Décret ne peut être pris qu'après avis conforme de l'Assemblée Nationale. Le Décret est notifié au concerné par les soins du Ministre de la Justice et Garde des Sceaux. Il peut faire l'objet d'un recours gracieux auprès du Président de la République et, le cas échéant, d'un recours en annulation devant la Cour Suprême de Justice.
+              renvois: []
+        divisions: []
+      - type: section
+        numero: "3"
+        intitule: "Du recouvrement de la nationalité congolaise"
+        ordre: 3
+        chemin: "1.4.3"
+        articles:
+          - numero: "30"
+            numero_tri: 30.0
+            ordre: 30
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Le recouvrement de la nationalité congolaise de la personne qui établit avoir possédé la nationalité congolaise résulte d'un Décret ou d'une déclaration suivant les distinctions fixées aux articles 31 et 32 de la présente Loi. Le recouvrement de la nationalité congolaise par Décret ou par déclaration produit effet à l'égard des enfants mineurs du bénéficiaire.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Le recouvrement de la nationalité congolaise de la personne qui établit avoir possédé la nationalité congolaise résulte d'un Décret ou d'une déclaration suivant les distinctions fixées aux articles 31 et 32 de la présente Loi. Le recouvrement de la nationalité congolaise par Décret ou par déclaration produit effet à l'égard des enfants mineurs du bénéficiaire.
+              renvois:
+                - article_cible: "31"
+                  portee: interne
+          - numero: "31"
+            numero_tri: 31.0
+            ordre: 31
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Le recouvrement par Décret concerne la personne qui a eu la nationalité congolaise par acquisition. Il peut être obtenu à tout âge de la majorité civile. I1 est soumis aux conditions et procédures d'acquisition de la nationalité congolaise.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Le recouvrement par Décret concerne la personne qui a eu la nationalité congolaise par acquisition. Il peut être obtenu à tout âge de la majorité civile. I1 est soumis aux conditions et procédures d'acquisition de la nationalité congolaise.
+              renvois: []
+          - numero: "32"
+            numero_tri: 32.0
+            ordre: 32
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Tout congolais d'origine, qui a perdu sa nationalité, peut la recouvrer par déclaration faite conformément aux dispositions de l'article 34. Il doit avoir conservé ou acquis avec la République Démocratique du Congo des liens manifestes, notamment d'ordre culturel, professionnel, économique, sentimental ou familial. La déclaration n'a d'effet qu'à compter du jour de son enregistrement.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Tout congolais d'origine, qui a perdu sa nationalité, peut la recouvrer par déclaration faite conformément aux dispositions de l'article 34. Il doit avoir conservé ou acquis avec la République Démocratique du Congo des liens manifestes, notamment d'ordre culturel, professionnel, économique, sentimental ou familial. La déclaration n'a d'effet qu'à compter du jour de son enregistrement.
+              renvois:
+                - article_cible: "34"
+                  portee: interne
+          - numero: "33"
+            numero_tri: 33.0
+            ordre: 33
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Le Gouvernement peut s'opposer au recouvrement de la nationalité congolaise de l'impétrant pour indignité.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Le Gouvernement peut s'opposer au recouvrement de la nationalité congolaise de l'impétrant pour indignité.
+              renvois: []
+        divisions: []
+  - type: chapitre
+    numero: "5"
+    intitule: "Des procédures"
+    ordre: 5
+    chemin: "1.5"
+    articles: []
+    divisions:
+      - type: section
+        numero: "1"
+        intitule: "De la procédure relative à la déclaration de la nationalité congolaise"
+        ordre: 1
+        chemin: "1.5.1"
+        articles:
+          - numero: "34"
+            numero_tri: 34.0
+            ordre: 34
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Toute déclaration en vue d'acquérir la nationalité congolaise, d'y renoncer ou de la recouvrer dans les cas prévus par la présente Loi doit satisfaire aux conditions suivantes:
+                1. 2.
+                3. être présentée en double exemplaire; comporter élection de domicile en République Démocratique du Congo de la part de l'intéressé; comporter la signature légalisée de l'impétrant;
+                4. être accompagnée des documents qui sont déterminés Arrêté du Ministre de la Justice et Garde des Sceaux délibéré en Conseil des Ministres:
+                5. être adressée au Ministre de la Justice et Garde des Sceaux par lettre recommandée avec accusé de réception ou par porteur contre récépissé après remise des pièces requises.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Toute déclaration en vue d'acquérir la nationalité congolaise, d'y renoncer ou de la recouvrer dans les cas prévus par la présente Loi doit satisfaire aux conditions suivantes:
+                - ordre: 2
+                  type: point
+                  contenu: |-
+                      1. 2.
+                - ordre: 3
+                  type: point
+                  contenu: |-
+                      3. être présentée en double exemplaire; comporter élection de domicile en République Démocratique du Congo de la part de l'intéressé; comporter la signature légalisée de l'impétrant;
+                - ordre: 4
+                  type: point
+                  contenu: |-
+                      4. être accompagnée des documents qui sont déterminés Arrêté du Ministre de la Justice et Garde des Sceaux délibéré en Conseil des Ministres:
+                - ordre: 5
+                  type: point
+                  contenu: |-
+                      5. être adressée au Ministre de la Justice et Garde des Sceaux par lettre recommandée avec accusé de réception ou par porteur contre récépissé après remise des pièces requises.
+              renvois: []
+          - numero: "35"
+            numero_tri: 35.0
+            ordre: 35
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Sans préjudice des dispositions de l'article 34 de la présente Loi, toute déclaration doit, à peine de nullité, être reçue et enregistrée par le Ministre de la Justice et Garde des Sceaux. Toutefois, toute déclaration faite en violation des dispositions de l'article 22 ne peut être enregistrée. La décision de refus d'enregistrement est notifiée au déclarant dans le délai de six mois, à dater de la réception de la déclaration. Ce refus peut faire l'objet d'un recours gracieux auprès du Ministre de la Justice et Garde des Sceaux, et le cas échéant, d'un recours en annulation devant la Cour Suprême de Justice.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Sans préjudice des dispositions de l'article 34 de la présente Loi, toute déclaration doit, à peine de nullité, être reçue et enregistrée par le Ministre de la Justice et Garde des Sceaux. Toutefois, toute déclaration faite en violation des dispositions de l'article 22 ne peut être enregistrée. La décision de refus d'enregistrement est notifiée au déclarant dans le délai de six mois, à dater de la réception de la déclaration. Ce refus peut faire l'objet d'un recours gracieux auprès du Ministre de la Justice et Garde des Sceaux, et le cas échéant, d'un recours en annulation devant la Cour Suprême de Justice.
+              renvois:
+                - article_cible: "34"
+                  portee: interne
+                - article_cible: "22"
+                  portee: interne
+          - numero: "36"
+            numero_tri: 36.0
+            ordre: 36
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                En cas de violation des dispositions des articles 22 et 34 de la présente Loi par l'impétrant, le Gouvernement rejette par Décret la demande d'acquisition ou de recouvrement de la nationalité congolaise. La décision de rejet est, endéans 3 mois à dater de la réception de la déclaration visant l'acquisition ou le recouvrement de la nationalité, notifiée à l'impétrant par le Ministre de la Justice et Garde des Sceaux.
+                La décision de rejet peut faire l'objet d'un recours gracieux auprès du Président de la République, et le cas échéant, d'un recours en annulation devant la Cour Suprême de Justice.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      En cas de violation des dispositions des articles 22 et 34 de la présente Loi par l'impétrant, le Gouvernement rejette par Décret la demande d'acquisition ou de recouvrement de la nationalité congolaise. La décision de rejet est, endéans 3 mois à dater de la réception de la déclaration visant l'acquisition ou le recouvrement de la nationalité, notifiée à l'impétrant par le Ministre de la Justice et Garde des Sceaux.
+                - ordre: 2
+                  type: alinea
+                  contenu: |-
+                      La décision de rejet peut faire l'objet d'un recours gracieux auprès du Président de la République, et le cas échéant, d'un recours en annulation devant la Cour Suprême de Justice.
+              renvois:
+                - article_cible: "22"
+                  portee: interne
+        divisions: []
+      - type: section
+        numero: "2"
+        intitule: "De la procédure relative à la naturalisation"
+        ordre: 2
+        chemin: "1.5.2"
+        articles:
+          - numero: "37"
+            numero_tri: 37.0
+            ordre: 37
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Toute demande de naturalisation doit satisfaire aux conditions suivantes:
+                1. comporter élection de domicile en République Démocratique du Congo;
+                2. avoir la signature légalisée de l'intéressé;
+                3. être accompagnée des documents déterminés par arrêté du Ministre de la Justice et Garde des Sceaux délibéré en Conseil des Ministres;
+                4. être adressée au Ministre de la Justice et Garde des Sceaux par lettre recommandée avec accusé de réception ou par porteur contre récépissé après remise des pièces requises.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Toute demande de naturalisation doit satisfaire aux conditions suivantes:
+                - ordre: 2
+                  type: point
+                  contenu: |-
+                      1. comporter élection de domicile en République Démocratique du Congo;
+                - ordre: 3
+                  type: point
+                  contenu: |-
+                      2. avoir la signature légalisée de l'intéressé;
+                - ordre: 4
+                  type: point
+                  contenu: |-
+                      3. être accompagnée des documents déterminés par arrêté du Ministre de la Justice et Garde des Sceaux délibéré en Conseil des Ministres;
+                - ordre: 5
+                  type: point
+                  contenu: |-
+                      4. être adressée au Ministre de la Justice et Garde des Sceaux par lettre recommandée avec accusé de réception ou par porteur contre récépissé après remise des pièces requises.
+              renvois: []
+          - numero: "38"
+            numero_tri: 38.0
+            ordre: 38
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Dans les 6 mois de la réception de la demande de naturalisation, il est procédé par les soins du Ministre de la Justice et Garde des Sceaux à une enquête sur l'honorabilité du requérant et à une publicité de cette demande. A l'issue de l'enquête, la demande de naturalisation, toutes les pièces de l'instruction ainsi que le projet de Décret portant naturalisation sont soumis aux délibérations du Conseil des Ministres. Après délibérations au Conseil des Ministres, le Gouvernement dépose à l'Assemblée Nationale pour avis conforme le dossier complet de la demande de naturalisation ainsi que les délibérations du Conseil des Ministres.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Dans les 6 mois de la réception de la demande de naturalisation, il est procédé par les soins du Ministre de la Justice et Garde des Sceaux à une enquête sur l'honorabilité du requérant et à une publicité de cette demande. A l'issue de l'enquête, la demande de naturalisation, toutes les pièces de l'instruction ainsi que le projet de Décret portant naturalisation sont soumis aux délibérations du Conseil des Ministres. Après délibérations au Conseil des Ministres, le Gouvernement dépose à l'Assemblée Nationale pour avis conforme le dossier complet de la demande de naturalisation ainsi que les délibérations du Conseil des Ministres.
+              renvois: []
+          - numero: "39"
+            numero_tri: 39.0
+            ordre: 39
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Le Décret de naturalisation est notifié à l'intéressé par les soins du Ministre de la Justice et Garde des Sceaux. Il prend effet à la date de son enregistrement et il est publié au Journal Officiel, avec mention de l'enregistrement.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Le Décret de naturalisation est notifié à l'intéressé par les soins du Ministre de la Justice et Garde des Sceaux. Il prend effet à la date de son enregistrement et il est publié au Journal Officiel, avec mention de l'enregistrement.
+              renvois: []
+        divisions: []
+      - type: section
+        numero: "3"
+        intitule: "De la procédure relative à la déchéance"
+        ordre: 3
+        chemin: "1.5.3"
+        articles:
+          - numero: "40"
+            numero_tri: 40.0
+            ordre: 40
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Lorsque le Ministre de la Justice et Garde des Sceaux est saisi d'un cas susceptible de poursuite en déchéance de la nationalité congolaise à l'encontre d'un individu, il notifie la mesure envisagée au concerné ou à sa résidence, à défaut de résidence connue, la mesure préconisée est publiée au Journal Officiel. Le concerné a la faculté d'adresser des pièces et mémoires au Ministre de la Justice et Garde des Sceaux dans le délai d'un mois à dater de la notification faite à personne ou à résidence ou dans un délai de 3 mois à dater de l'insertion au Journal Officiel.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Lorsque le Ministre de la Justice et Garde des Sceaux est saisi d'un cas susceptible de poursuite en déchéance de la nationalité congolaise à l'encontre d'un individu, il notifie la mesure envisagée au concerné ou à sa résidence, à défaut de résidence connue, la mesure préconisée est publiée au Journal Officiel. Le concerné a la faculté d'adresser des pièces et mémoires au Ministre de la Justice et Garde des Sceaux dans le délai d'un mois à dater de la notification faite à personne ou à résidence ou dans un délai de 3 mois à dater de l'insertion au Journal Officiel.
+              renvois: []
+          - numero: "41"
+            numero_tri: 41.0
+            ordre: 41
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Le Décret prononçant la déchéance est enregistré par les soins du Ministre de la Justice et Garde des Sceaux. Il est notifié au concerné par les mêmes soins et publié au Journal Officiel avec mention de l'enregistrement.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Le Décret prononçant la déchéance est enregistré par les soins du Ministre de la Justice et Garde des Sceaux. Il est notifié au concerné par les mêmes soins et publié au Journal Officiel avec mention de l'enregistrement.
+              renvois: []
+        divisions: []
+  - type: chapitre
+    numero: "6"
+    intitule: "De la preuve de la nationalité"
+    ordre: 6
+    chemin: "1.6"
+    articles: []
+    divisions:
+      - type: section
+        numero: "1"
+        intitule: Des dispositions communes
+        ordre: 1
+        chemin: "1.6.1"
+        articles:
+          - numero: "42"
+            numero_tri: 42.0
+            ordre: 42
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                La preuve de la nationalité congolaise d'origine ou d'acquisition s'établit en produisant un certificat de nationalité régulièrement délivré par le Ministre ayant la nationalité dans ses attributions. Le certificat comporte les mentions et références prescrites par le Décret portant mesures d'exécution de la présente Loi, notamment les références précises du registre d'enregistrement, la date, la nature de l'acte en vertu duquel l'intéressé a la nationalité congolaise ainsi que les documents qui ont permis de l'établir. Le certificat de nationalité fait foi jusqu'à preuve du contraire.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      La preuve de la nationalité congolaise d'origine ou d'acquisition s'établit en produisant un certificat de nationalité régulièrement délivré par le Ministre ayant la nationalité dans ses attributions. Le certificat comporte les mentions et références prescrites par le Décret portant mesures d'exécution de la présente Loi, notamment les références précises du registre d'enregistrement, la date, la nature de l'acte en vertu duquel l'intéressé a la nationalité congolaise ainsi que les documents qui ont permis de l'établir. Le certificat de nationalité fait foi jusqu'à preuve du contraire.
+              renvois: []
+          - numero: "43"
+            numero_tri: 43.0
+            ordre: 43
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Le certificat de nationalité ne peut légalement être retiré que s'il a été obtenu par fraude. Toutefois, si l'administration conteste la nationalité congolaise du bénéficiaire, c'est à elle de prouver que l'intéressé n'a pas cette nationalité.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Le certificat de nationalité ne peut légalement être retiré que s'il a été obtenu par fraude. Toutefois, si l'administration conteste la nationalité congolaise du bénéficiaire, c'est à elle de prouver que l'intéressé n'a pas cette nationalité.
+              renvois: []
+          - numero: "44"
+            numero_tri: 44.0
+            ordre: 44
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                La preuve d'une déclaration tendant à obtenir la nationalité congolaise, à y renoncer ou à la recouvrer, résulte de la production d'une attestation délivrée par le Ministre de la Justice et Garde des Sceaux, à la demande de tout requérant. Cette attestation constate que la déclaration a été établie et enregistrée.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      La preuve d'une déclaration tendant à obtenir la nationalité congolaise, à y renoncer ou à la recouvrer, résulte de la production d'une attestation délivrée par le Ministre de la Justice et Garde des Sceaux, à la demande de tout requérant. Cette attestation constate que la déclaration a été établie et enregistrée.
+              renvois: []
+        divisions: []
+      - type: section
+        numero: "2"
+        intitule: "De la preuve de la qualité d'étranger"
+        ordre: 2
+        chemin: "1.6.2"
+        articles:
+          - numero: "45"
+            numero_tri: 45.0
+            ordre: 45
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Hormis les cas de perte de la nationalité congolaise, la preuve de la qualité d'étranger doit uniquement être faite par des documents probants.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Hormis les cas de perte de la nationalité congolaise, la preuve de la qualité d'étranger doit uniquement être faite par des documents probants.
+              renvois: []
+          - numero: "46"
+            numero_tri: 46.0
+            ordre: 46
+            version:
+              num_version: 1
+              statut: en_vigueur
+              texte_source: null
+              date_debut_vigueur: null
+              date_fin_vigueur: null
+              contenu: |-
+                Lorsque la nationalité congolaise se perd autrement que par déchéance, la preuve en est faite en établissant l'existence des faits et actes qui ont provoqué la perte.
+              alineas:
+                - ordre: 1
+                  type: alinea
+                  contenu: |-
+                      Lorsque la nationalité congolaise se perd autrement que par déchéance, la preuve en est faite en établissant l'existence des faits et actes qui ont provoqué la perte.
+              renvois: []
+        divisions: []
+  - type: chapitre
+    numero: "7"
+    intitule: "De l'autorité compétente pour délivrer le certificat de nationalité"
+    ordre: 7
+    chemin: "1.7"
+    articles:
+      - numero: "47"
+        numero_tri: 47.0
+        ordre: 47
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Le Ministre de la Justice et Garde des Sceaux est l'autorité: compétente pour délivrer le certificat de nationalité.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Le Ministre de la Justice et Garde des Sceaux est l'autorité: compétente pour délivrer le certificat de nationalité.
+          renvois: []
+    divisions: []
+  - type: chapitre
+    numero: "8"
+    intitule: Des dispositions fiscales
+    ordre: 8
+    chemin: "1.8"
+    articles:
+      - numero: "48"
+        numero_tri: 48.0
+        ordre: 48
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            L'enregistrement et la délivrance d'un certificat relatif aux différents actes prévus dans la présente Loi sont subordonnés à la perception d'un droit dont le montant est fixé par arrêté interministériel des Ministres de la Justice et Garde des Sceaux et des Finances délibéré en Conseil des Ministres.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  L'enregistrement et la délivrance d'un certificat relatif aux différents actes prévus dans la présente Loi sont subordonnés à la perception d'un droit dont le montant est fixé par arrêté interministériel des Ministres de la Justice et Garde des Sceaux et des Finances délibéré en Conseil des Ministres.
+          renvois: []
+    divisions: []
+  - type: chapitre
+    numero: "9"
+    intitule: "Des dispositions particulières et transitoires"
+    ordre: 9
+    chemin: "1.9"
+    articles:
+      - numero: "49"
+        numero_tri: 49.0
+        ordre: 49
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Tout étranger ayant acquis la nationalité congolaise est tenu de conserver et d'entretenir des liens manifestes d'ordre culturel, professionnel, économique, sentimental ou familial avec la République Démocratique du Congo.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Tout étranger ayant acquis la nationalité congolaise est tenu de conserver et d'entretenir des liens manifestes d'ordre culturel, professionnel, économique, sentimental ou familial avec la République Démocratique du Congo.
+          renvois: []
+      - numero: "50"
+        numero_tri: 50.0
+        ordre: 50
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Les demandes de naturalisation régulièrement introduites avant l'entrée en vigueur de la présente Loi demeurent valables.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Les demandes de naturalisation régulièrement introduites avant l'entrée en vigueur de la présente Loi demeurent valables.
+          renvois: []
+      - numero: "51"
+        numero_tri: 51.0
+        ordre: 51
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Sans préjudice des dispositions des articles 1er et 26 ci-dessus, tout Congolais qui, à l'entrée en vigueur de la présente Loi, possède à la fois la nationalité congolaise et celle d'un Etat étranger doit se déclarer et opter pour l'une de ces deux nationalités. Au cas où il opte pour la nationalité congolaise, il doit dans le délai de 3 mois se conformer aux dispositions de l'article 34 de la présente Loi.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Sans préjudice des dispositions des articles 1er et 26 ci-dessus, tout Congolais qui, à l'entrée en vigueur de la présente Loi, possède à la fois la nationalité congolaise et celle d'un Etat étranger doit se déclarer et opter pour l'une de ces deux nationalités. Au cas où il opte pour la nationalité congolaise, il doit dans le délai de 3 mois se conformer aux dispositions de l'article 34 de la présente Loi.
+          renvois:
+            - article_cible: "1"
+              portee: interne
+            - article_cible: "34"
+              portee: interne
+    divisions: []
+  - type: chapitre
+    numero: "10"
+    intitule: Des dispositions abrogatoires et finales
+    ordre: 10
+    chemin: "1.10"
+    articles:
+      - numero: "52"
+        numero_tri: 52.0
+        ordre: 52
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            Toutes les dispositions antérieures relatives à la nationalité, notamment, le Décret-loi n° 197 du 29 janvier 1999 modifiant et complétant la Loi n° 81-002 du 29 juin 1981 sur la nationalité congolaise sont abrogées.
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  Toutes les dispositions antérieures relatives à la nationalité, notamment, le Décret-loi n° 197 du 29 janvier 1999 modifiant et complétant la Loi n° 81-002 du 29 juin 1981 sur la nationalité congolaise sont abrogées.
+          renvois: []
+      - numero: "53"
+        numero_tri: 53.0
+        ordre: 53
+        contenu_tronque: true
+        version:
+          num_version: 1
+          statut: en_vigueur
+          texte_source: null
+          date_debut_vigueur: null
+          date_fin_vigueur: null
+          contenu: |-
+            La présente Loi entre en vigueur à la date de sa publication
+          alineas:
+            - ordre: 1
+              type: alinea
+              contenu: |-
+                  La présente Loi entre en vigueur à la date de sa publication
+          renvois: []
+    divisions: []

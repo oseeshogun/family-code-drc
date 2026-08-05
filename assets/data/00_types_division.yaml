@@ -1,0 +1,23 @@
+# Nomenclature -> table type_division
+types_division:
+  - id: livre
+    libelle: Livre
+    niveau: 1
+  - id: titre
+    libelle: Titre
+    niveau: 2
+  - id: chapitre
+    libelle: Chapitre
+    niveau: 3
+  - id: section
+    libelle: Section
+    niveau: 4
+  - id: sous_section
+    libelle: Sous-section
+    niveau: 5
+  - id: paragraphe
+    libelle: Paragraphe
+    niveau: 6
+  - id: subdivision
+    libelle: Subdivision littérale
+    niveau: 7

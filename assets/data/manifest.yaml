@@ -1,0 +1,43 @@
+# Manifeste d'import — ordre de chargement recommandé
+ordre_import:
+  - 00_textes_normatifs.yaml
+  - 00_types_division.yaml
+  - livre_1.yaml
+  - livre_2.yaml
+  - livre_3.yaml
+  - livre_4.yaml
+  - livre_5.yaml
+  - 99_anomalies.yaml
+livres:
+  - fichier: livre_1.yaml
+    numero: I
+    intitule: DE LA NATIONALITE
+    articles: 53
+    divisions: 29
+    plage_articles: "1-53"
+  - fichier: livre_2.yaml
+    numero: II
+    intitule: DE LA PERSONNE
+    articles: 272
+    divisions: 65
+    plage_articles: "56-327"
+  - fichier: livre_3.yaml
+    numero: III
+    intitule: DE LA FAMILLE
+    articles: 432
+    divisions: 85
+    plage_articles: "327-754"
+  - fichier: livre_4.yaml
+    numero: IV
+    intitule: DES SUCCESSIONS ET DES LIBERALITES
+    articles: 162
+    divisions: 33
+    plage_articles: "755-914"
+  - fichier: livre_5.yaml
+    numero: V
+    intitule: "DES DISPOSITIONS ABROGATOIRES, MODIFICATIVES, TRANSITOIRES"
+    articles: 23
+    divisions: 3
+    plage_articles: "915-935"
+total_articles: 942
+total_abroges: 26
