@@ -95,7 +95,7 @@ class RegisterDataOnOfflineUseCase extends UseCase<void> {
       numeroTri: numeroTri,
       ordre: article['ordre'] as int,
       statut: version['statut'].toString(),
-      texteSource: texteSource == null ? null : texteSource.toString(),
+      texteSource: texteSource?.toString(),
       contenu: version['contenu'].toString(),
       slug: '', // computed from contenu at insert time
     );

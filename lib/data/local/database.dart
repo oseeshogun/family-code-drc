@@ -5,6 +5,7 @@ import 'package:family_code/data/local/tables/divisions.dart';
 import 'package:drift/drift.dart';
 import 'package:drift/isolate.dart';
 import 'package:drift/native.dart';
+import 'package:family_code/domain/entities/division_type.dart';
 import 'package:flutter/foundation.dart' show kDebugMode;
 import 'package:flutter/services.dart';
 import 'package:path_provider/path_provider.dart';
@@ -51,4 +52,4 @@ LazyDatabase _openConnection() {
 
     return NativeDatabase.createInBackground(file, logStatements: kDebugMode);
   });
-}
+}                                                 
