@@ -222,19 +222,15 @@ class AiAgentService {
       ),
       _tool(
         'search_articles',
-        'Recherche des articles par mots-clés (correspondance lexicale approximative, pas sémantique). Enrichis toi-même '
-            'les mots-clés avec des synonymes et le vocabulaire juridique apparenté. Utilise division_id (obtenu via '
-            'get_code_structure) pour borner la recherche à une division précise du code et ses sous-divisions.',
+        'Recherche des articles par mots-clés sur l\'ensemble du corpus (correspondance lexicale approximative, pas '
+            'sémantique). Enrichis toi-même les mots-clés avec des synonymes et le vocabulaire juridique apparenté.',
         _params(
           {
             'keywords': _array(
               'Mots-clés à rechercher, incluant synonymes et termes juridiques apparentés à la question',
               _str('mot-clé'),
             ),
-            'division_id': _int(
-              'Identifiant de la division (obtenu via get_code_structure) pour borner la recherche (optionnel)',
-            ),
-            'limit': _int('Nombre maximum de résultats, défaut 5, plafonné à 10 (optionnel)'),
+            'limit': _int('Nombre maximum de résultats, défaut 12, plafonné à 12 (optionnel)'),
           },
           required: ['keywords'],
         ),
@@ -258,11 +254,7 @@ class AiAgentService {
         case 'search_articles':
           final keywords = (args['keywords'] as List<dynamic>?)?.map((e) => e.toString()).toList() ?? <String>[];
           return {
-            'articles': await _repo.searchArticles(
-              keywords: keywords,
-              divisionId: (args['division_id'] as num?)?.toInt(),
-              limit: (args['limit'] as num?)?.toInt() ?? 5,
-            ),
+            'articles': await _repo.searchArticles(keywords: keywords, limit: (args['limit'] as num?)?.toInt() ?? 12),
           };
 
         case 'get_article_by_number':

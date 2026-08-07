@@ -48,23 +48,16 @@ class AiFunctionsRepositoryImpl with AiFunctionsRepository {
   }
 
   @override
-  Future<List<Map<String, dynamic>>> searchArticles({
-    required List<String> keywords,
-    int? divisionId,
-    int limit = 5,
-  }) async {
-    final clampedLimit = limit.clamp(1, 10);
-    final bound = divisionId == null ? null : await _descendantDivisionIds(divisionId);
-
+  Future<List<Map<String, dynamic>>> searchArticles({required List<String> keywords, int limit = 12}) async {
+    final clampedLimit = limit.clamp(1, 12);
     final allArticles = await _articleRepository.streamAll().first;
-    final candidates = bound == null ? allArticles : allArticles.where((a) => bound.contains(a.divisionId)).toList();
 
     if (keywords.isEmpty) {
-      return candidates.take(clampedLimit).map(_toMap).toList();
+      return allArticles.take(clampedLimit).map(_toMap).toList();
     }
 
     final query = keywords.join(' ');
-    final matches = candidates.where((a) => matchesQuery('${a.contenu} ${a.slug}', query)).toList();
+    final matches = allArticles.where((a) => matchesQuery('${a.contenu} ${a.slug}', query)).toList();
     return matches.take(clampedLimit).map(_toMap).toList();
   }
 
@@ -77,16 +70,4 @@ class AiFunctionsRepositoryImpl with AiFunctionsRepository {
   }
 
   Map<String, dynamic> _toMap(ArticleEntity a) => {'id': a.id, 'numero': a.numero, 'text': a.contenu};
-
-  /// Resolves a division id into itself plus every descendant division id,
-  /// since articles can attach to a division at any of the tree's 7 levels
-  /// and `DivisionRepository` only exposes parent→children traversal.
-  Future<Set<int>> _descendantDivisionIds(int divisionId) async {
-    final result = <int>{divisionId};
-    final children = await _divisionRepository.streamByParent(divisionId).first;
-    for (final child in children) {
-      result.addAll(await _descendantDivisionIds(child.id));
-    }
-    return result;
-  }
 }
