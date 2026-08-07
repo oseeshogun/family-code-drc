@@ -41,6 +41,9 @@ dependencies:
   fuzzy: ^0.5.1
   json_annotation: ^4.12.0
   share_plus: ^13.2.1
+  flutter_deepseek: ^0.1.1
+  http: ^1.6.0
+  markdown_widget: ^2.3.2+8
 
 dev_dependencies:
   flutter_test:
@@ -71,6 +74,7 @@ flutter:
     - assets/data/99_anomalies.yaml
     - assets/icon/icon.png
     - assets/svgs/
+    - assets/ai/system_prompt.md
 
 flutter_launcher_icons:
   android: "family_code"
