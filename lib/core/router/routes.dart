@@ -1,6 +1,5 @@
 import 'package:family_code/presentation/screens/about_family_code.dart';
 import 'package:family_code/presentation/screens/article_screen.dart';
-import 'package:family_code/presentation/screens/chat_screen.dart';
 import 'package:family_code/presentation/screens/home_screen.dart';
 import 'package:family_code/presentation/screens/info_screen.dart';
 import 'package:flutter/material.dart' show BuildContext, Widget;
@@ -34,10 +33,4 @@ class InfoRoute extends GoRouteData with $InfoRoute {
 class AboutRoute extends GoRouteData with $AboutRoute {
   @override
   Widget build(BuildContext context, GoRouterState state) => const AboutFamilyCode();
-}
-
-@TypedGoRoute<ChatRoute>(path: '/chat')
-class ChatRoute extends GoRouteData with $ChatRoute {
-  @override
-  Widget build(BuildContext context, GoRouterState state) => const ChatScreen();
 }
