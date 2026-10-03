@@ -7,6 +7,7 @@ import 'package:family_code/domain/providers/articles/article_of_the_day.dart';
 import 'package:family_code/domain/providers/divisions/divisions.dart';
 import 'package:family_code/presentation/widgets/article_of_the_day_card.dart';
 import 'package:family_code/presentation/widgets/article_search_delegate.dart';
+import 'package:family_code/presentation/widgets/banner_ad_widget.dart';
 import 'package:family_code/presentation/widgets/divisions_empty_widget.dart';
 import 'package:family_code/presentation/widgets/divisions_error_widget.dart';
 import 'package:family_code/presentation/widgets/divisions_list_widget.dart';
@@ -139,6 +140,7 @@ class HomeScreen extends HookConsumerWidget {
           ),
         ],
       ),
+      bottomNavigationBar: const SafeArea(child: BannerAdWidget()),
     );
   }
 }

@@ -8,6 +8,9 @@ import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 import 'package:flutter/foundation.dart';
 import 'package:family_code/firebase_options.dart';
+import 'package:family_code/core/ads/ad_ids.dart';
+import 'package:family_code/core/ads/app_open_ad_manager.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -26,6 +29,11 @@ Future<void> main() async {
     FirebaseCrashlytics.instance.recordError(error, stack, fatal: true);
     return true;
   };
+
+  if (AdIds.supported) {
+    await MobileAds.instance.initialize();
+    AppOpenAdManager().start();
+  }
 
   runApp(const ProviderScope(child: MyApp()));
 }
