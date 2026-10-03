@@ -3,6 +3,7 @@ import 'package:family_code/data/repositories/article_repository_impl.dart';
 import 'package:family_code/domain/providers/articles/article.dart';
 import 'package:family_code/core/presentations/providers/flutter_tts.dart';
 import 'package:family_code/core/router/routes.dart';
+import 'package:family_code/presentation/widgets/banner_ad_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
@@ -38,7 +39,8 @@ class ArticleScreen extends HookConsumerWidget {
     return Scaffold(
       appBar: AppBar(
         title: articleAsyncValue.when(
-          data: (article) => Text('Article ${article.numero}', style: const TextStyle(fontWeight: FontWeight.w500, fontSize: 24.0)),
+          data: (article) =>
+              Text('Article ${article.numero}', style: const TextStyle(fontWeight: FontWeight.w500, fontSize: 24.0)),
           loading: () => const Text('Article', style: TextStyle(fontWeight: FontWeight.w500, fontSize: 24.0)),
           error: (_, _) => const Text('Article', style: TextStyle(fontWeight: FontWeight.w500, fontSize: 24.0)),
         ),
@@ -126,33 +128,39 @@ class ArticleScreen extends HookConsumerWidget {
         ],
       ),
       bottomNavigationBar: SafeArea(
-        child: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
-          child: articleCountAsync.when(
-            data: (total) {
-              return Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  if (id > 1)
-                    FilledButton.tonalIcon(
-                      onPressed: () => ArticleRoute(id - 1).replace(context),
-                      icon: const Icon(Icons.arrow_back),
-                      label: const Text('Précédent'),
-                    )
-                  else
-                    const SizedBox.shrink(),
-                  if (id < total)
-                    FilledButton.tonalIcon(
-                      onPressed: () => ArticleRoute(id + 1).replace(context),
-                      icon: const Icon(Icons.arrow_forward),
-                      label: const Text('Suivant'),
-                    ),
-                ],
-              );
-            },
-            loading: () => const SizedBox.shrink(),
-            error: (_, _) => const SizedBox.shrink(),
-          ),
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            const BannerAdWidget(),
+            Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
+              child: articleCountAsync.when(
+                data: (total) {
+                  return Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      if (id > 1)
+                        FilledButton.tonalIcon(
+                          onPressed: () => ArticleRoute(id - 1).replace(context),
+                          icon: const Icon(Icons.arrow_back),
+                          label: const Text('Précédent'),
+                        )
+                      else
+                        const SizedBox.shrink(),
+                      if (id < total)
+                        FilledButton.tonalIcon(
+                          onPressed: () => ArticleRoute(id + 1).replace(context),
+                          icon: const Icon(Icons.arrow_forward),
+                          label: const Text('Suivant'),
+                        ),
+                    ],
+                  );
+                },
+                loading: () => const SizedBox.shrink(),
+                error: (_, _) => const SizedBox.shrink(),
+              ),
+            ),
+          ],
         ),
       ),
     );
